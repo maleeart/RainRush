@@ -1,0 +1,10 @@
+{
+  "name": "Rain Rush",
+  "short_name": "Rain Rush",
+  "description": "A neon rainy-night lane dodging game.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050714",
+  "theme_color": "#050714",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
