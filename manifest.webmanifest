@@ -1,7 +1,7 @@
 {
-  "name": "Rain Rush",
-  "short_name": "Rain Rush",
-  "description": "A neon rainy-night lane dodging game.",
+  "name": "Nova Blade Rush",
+  "short_name": "Nova Blade",
+  "description": "An original space-fantasy plasma-blade runner.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#050714",

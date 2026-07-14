@@ -1,6 +1,6 @@
-# Rain Rush
+# Nova Blade Rush
 
-A mobile-friendly, neon rainy-night, three-lane car-dodging game.
+An original space-fantasy, three-lane plasma-blade runner. Dodge raiders and droids while collecting astral crystals.
 
 ## Run
 
